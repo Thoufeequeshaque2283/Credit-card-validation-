@@ -9,4 +9,4 @@ Type of Credit card
 	        UNKNOWN,
  if the credit card valid - result is card type or else result is INVALID card .
 here we are getting inputs from jsp page .
-there is no any Sql operations. 
+zero Sql operations. 
